@@ -167,7 +167,7 @@ img{
 
 .search-form__field{
     width: 297px;
-    background: transparent url(../img/svg/circle-ico.svg) no-repeat left 6px;
+    background: transparent url(./img/svg/circle-ico.svg) no-repeat left 6px;
     background-size: 20px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;
@@ -266,7 +266,7 @@ img{
     line-height: 24px;
     color: #006DFE;
     text-decoration: none;
-    background: url(../img/svg/arrow-right-ico.svg) no-repeat 95% center;
+    background: url(./img/svg/arrow-right-ico.svg) no-repeat 95% center;
     transition: .2s all;
 }
 /* Benefits styles end */
@@ -295,7 +295,7 @@ img{
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(../img/svg/arrow-right-ico.svg) no-repeat right center;
+    background: url(./img/svg/arrow-right-ico.svg) no-repeat right center;
 }
 
 .places__cards{
@@ -402,7 +402,7 @@ img{
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(../img/svg/arrow-right-ico.svg) no-repeat right center;
+    background: url(./img/svg/arrow-right-ico.svg) no-repeat right center;
 }
 /* Tours styles end */
 
@@ -461,7 +461,7 @@ img{
     line-height: 24px;
     color: #fff;
     padding-right: 20px;
-    background: url(../img/svg/heart-ico.svg) no-repeat right;
+    background: url(./img/svg/heart-ico.svg) no-repeat right;
     margin-right: 14px;
 }
 
@@ -471,7 +471,7 @@ img{
     line-height: 24px;
     color: #fff;
     padding-right: 23px;
-    background: url(../img/svg/comment-ico.svg) no-repeat right;
+    background: url(./img/svg/comment-ico.svg) no-repeat right;
 }
 
 .top__card-desc{
@@ -688,7 +688,7 @@ img{
         width: 100%;
         margin-right: 0;
         padding-bottom: 12px;
-        background: transparent url(../img/svg/circle-ico.svg) no-repeat left 2px;
+        background: transparent url(./img/svg/circle-ico.svg) no-repeat left 2px;
     }
     .search-form__field::placeholder{
         font-size: 16px;
